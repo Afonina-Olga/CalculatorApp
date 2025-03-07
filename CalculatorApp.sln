@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorApp", "CalculatorApp\CalculatorApp.csproj", "{F02A3872-7AEB-47EF-B199-B59A2C5B7529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F02A3872-7AEB-47EF-B199-B59A2C5B7529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02A3872-7AEB-47EF-B199-B59A2C5B7529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02A3872-7AEB-47EF-B199-B59A2C5B7529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02A3872-7AEB-47EF-B199-B59A2C5B7529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {644072AF-02B8-46B1-B70F-5DA646E10B88}
+	EndGlobalSection
+EndGlobal
