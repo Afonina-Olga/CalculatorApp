@@ -107,6 +107,7 @@ namespace CalculatorApp
 			}
 		}
 
+		// TODO пустая строка выдает ошибку
 		private void BtnBack_Click(object sender, EventArgs e)
 		{
 			txtDisplay.Text = txtDisplay.Text.Substring(0, txtDisplay.TextLength - 1);
